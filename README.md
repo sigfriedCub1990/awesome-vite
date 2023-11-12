@@ -204,6 +204,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [monorepo-template-react](https://github.com/stormkit-io/monorepo-template-react) - React + Typescript template for SSR, SPG, SPA and API provision.
 - [vite-react-dapp-template](https://github.com/huseyindeniz/vite-react-dapp-template) - Starter template for decentralized app frontend development with preconfigured Wallet Authentication, i18n and UI features.
 - [vite-express-ssr-ts](https://github.com/gihanrangana/vite-express-ssr-ts) - React + Typescript + ExpressJS + Vite SSR template with inbuild api feature.
+- [vite-vitest-ts](https://github.com/sigfriedCub1990/vite-react-ts) - React + Typescript + Vitest + React Testing Library (with extensions)
 
 #### Svelte
 
